@@ -553,7 +553,8 @@ form{
     border: none;
     outline: none;
     height: 2rem;
-    width: 14rem;
+    width: 12rem;
+    background-color: transparent;
 }
 
 .share button{
